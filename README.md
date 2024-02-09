@@ -1,17 +1,5 @@
 # Spotted - Social Media Application
 
-This group project requires creating an app that meets the following requirements.
-
-## Project Requirements:
-
-* Must meet good quality coding standards (indentation, scoping, naming, etc.)
-* Does NOT use alerts, confirms, or prompts, but utilise modals.
-* Have a quality README (unique name, description, screenshots, etc.)
-* Have a clean, polished, responsive UI built with a CSS framework
-* Must use at least two new server-side APIs
-* Must be interactive (i.e: accept and respond to user input)
-* OPTIONAL: Use client-side storage to store persistent data
-
 ## What's Spotted app?
 
 Spotted is a social media application tailored for local communities. It is an online hub for staying updated on everything happening in your neighbourhood.
